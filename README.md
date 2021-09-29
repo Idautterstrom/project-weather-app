@@ -1,13 +1,11 @@
 # Weather App
 
-Replace this readme with your own information about your project.
-
-Start by briefly describing the assignment in a sentence or two. Keep it short and to the point.
+This week we had to create a weather app using an API. This was done with implementing an API. For this assignment we worked in groups to practice to work in branches and how to merge them togheter. The app presents the current weather on top and a 7-day forecast at the bottom.
 
 ## The problem
 
-Describe how you approached to problem, and what tools and techniques you used to solve it. How did you plan? What technologies did you use? If you had more time, what would be next?
+
 
 ## View it live
 
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+https://elephants-group2-weather-app.netlify.app 
